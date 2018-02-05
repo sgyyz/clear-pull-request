@@ -31,15 +31,3 @@ Title is the thing that your reviewers will read. So reduce their effort to find
 5. Summary of PR. It's same as your git commit message, you should describe what do you do in this PR.
 6. Description. (Optional) If your title can not explain the whole features you did, you can add description for it.
 
-
-
-No.|Project Name | Currently Status | Planned Release | Estimate Time | Note
----|---|---|---|---|---
-01|NBCU Order Sync by NBCU API | QA/UAT | 02/08 | 2 days | 
-02|Addressable Placement Editor(Missing Part: https://jira.tubemogul.info/browse/PTV-11172)| In Progress | 02/22(or later) | 4 days | 
-3|Update ptv-integrations-nbcu module after separating ptv-orders/ptv-inventories into microservice| Plan | 02/22 | 5 days | It needs to be finished after ptv-prders/ptv-inventories migration
-4|Agency/Advertiser/Brand selection integrate with NBCU APIs when NBCU order submit  | Plan | 02/22(or later) | 3-4 days | Backend APIs are ready, it needs UI integrate with these APIs
-5|Clypd Order Sync by Clypd API | Plan | after 02/22 | 10 days
-6|Admin Tools Update | Plan | after 02/22 | 3 days | add some new features/optimize some existing function
-7|Separate ptv-integration-nbcu as a microservice | after Clypd Release | N/A | 5 days 
-
